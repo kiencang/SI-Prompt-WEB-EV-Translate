@@ -5,6 +5,12 @@ Tất cả những thay đổi đáng chú ý của dự án kiencang/SI-Prompt-
 Định dạng dựa trên [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 và dự án này tuân thủ [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v1.0.4] - 2026-04-20
+### fixed
+- Điều chỉnh cách dịch tiêu đề, yêu cầu giữ tên riêng nếu trong tiêu đề có.
+- Dịch tiêu đề hay hơn, chứ không phải sáng tác thêm.
+- Điều chỉnh giải thích về hiện tượng 'cải danh' trong văn bản. 
+
 ## [v1.0.3] - 2026-04-19
 ### fixed
 - Bổ sung cách dịch tiêu đề chuẩn xác hơn (nhưng vẫn hướng dẫn cần dịch hay).
