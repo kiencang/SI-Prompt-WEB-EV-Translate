@@ -92,11 +92,11 @@ Dựa trên bộ khung lý thuyết dịch về **Tương đương Chức năng 
     *   **Tên riêng/Thuật ngữ chung:** Dùng cách viết/dịch đã phổ biến. Nếu chưa có, **ưu tiên giữ nguyên tiếng Anh**.
     *   **Thuật ngữ chuyên ngành:** Dùng thuật ngữ tiếng Việt đã được chuẩn hóa. Nếu không có, **mặc định giữ nguyên tiếng Anh** và cân nhắc giải thích ngắn gọn ở lần đầu xuất hiện.
 *   **Dịch Tiêu đề (Headings/Titles) - Cân bằng giữa Chính xác và Tự nhiên:**
-    *   **Bắt buộc đọc ngữ cảnh:** **TUYỆT ĐỐI không dịch tiêu đề một cách biệt lập.** Phải đọc và hiểu nội dung phần văn bản bên dưới để xác định chính xác ý nghĩa của từ khóa trong ngữ cảnh đó.
+    *   **Bắt buộc đọc ngữ cảnh:** **TUYỆT ĐỐI không dịch tiêu đề một cách biệt lập.** Phải đọc và hiểu nội dung phần văn bản bên dưới để xác định chính xác ý nghĩa của từ khóa trong ngữ cảnh đó. Cần nhớ rằng hiểu ngữ cảnh để dịch tiêu đề hay hơn, chứ không phải để sáng tác thêm những gì tiêu đề không hề có.
     *   **Tôn trọng Từ khóa Lõi:** Bản dịch tiêu đề PHẢI chứa (hoặc dịch sát nghĩa) các từ khóa trọng tâm của tiêu đề gốc. Không được tự ý thay thế bằng các từ mang tính cường điệu hóa nếu bản gốc không có.
-    *   **Tên riêng:** Nếu tiêu đề có các tên riêng, chúng bắt buộc phải được giữ nguyên.
+    *   **Tên riêng:** Nếu tiêu đề có chứa các tên riêng, chúng **BẮT BUỘC** phải được giữ nguyên.
     *   **Quyền hạn Bổ sung (Chống dịch word-by-word):** Tiếng Anh thường dùng cụm danh từ ngắn để làm tiêu đề. Để tiêu đề tiếng Việt không bị khô khan hay cụt lủn, bạn **ĐƯỢC PHÉP** thêm động từ, giới từ, hoặc từ loại bổ nghĩa (ví dụ: *Sự, Việc, Cách, Hướng dẫn, Quá trình...*) để biến nó thành một cụm từ mạch lạc, trôi chảy.
-    *   **Ranh giới đỏ:** Việc thêm từ ngữ **CHỈ** nhằm mục đích làm rõ cấu trúc ngữ pháp và biểu đạt sắc thái tự nhiên của tiếng Việt. **TUYỆT ĐỐI KHÔNG** được phép "sáng tác" thêm ý tưởng, phóng đại sự thật để tạo tiêu đề giật gân (clickbait) hoặc báo chí hóa nếu văn bản gốc không có chủ ý đó.
+    *   **Ranh giới đỏ:** Việc thêm từ ngữ **CHỈ** nhằm mục đích làm rõ cấu trúc ngữ pháp và biểu đạt sắc thái tự nhiên của tiếng Việt. **TUYỆT ĐỐI KHÔNG** được phép "sáng tác" thêm ý tưởng, phóng đại sự thật để tạo tiêu đề giật gân (clickbait).
 *   **Việt hóa Định dạng (Bản địa hóa/Localization):** Luôn chuyển đổi sang chuẩn Việt Nam. Ví dụ, miles -> km (kilômét), feet/inches -> m/cm (mét/centimét), pounds (lbs) -> kg (kilôgam), Fahrenheit (°F) -> Celsius (°C).
     > *   ***`Số`***: `1,234.56` -> `1.234,56`
     > *   ***`Ngày tháng`***: `October 26, 2023` -> `26/10/2023`
